@@ -1,4 +1,4 @@
-**#Number Plate Detection using OpenCV **   
+**#Number Plate Detection using OpenCV**   
 
 This project demonstrates an automatic number plate recognition (ANPR) system implemented in Python using OpenCV. The system aims to efficiently detect and recognize vehicle number plates from images or video streams.  
 
@@ -10,7 +10,7 @@ Recognizes alphanumeric characters from the extracted number plates.
 Provides real-time processing capabilities for video streams.
 Offers configurable parameters for optimization and customization.
 
-**#Requirements **  
+**#Requirements**
 
 Python 3.x
 OpenCV (cv2)
